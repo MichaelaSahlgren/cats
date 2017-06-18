@@ -1,6 +1,8 @@
 import scipy.ndimage
 import numpy
 
+def
+
 # read in the the drawing and convert to a matrix.
 mask_matrisen = scipy.ndimage.imread('/home/michaela/katter/annotations/trimaps/pomeranian_62.png', flatten=False, mode=None)
 #konvert outline and inside to 1:s and surrounding to 0
